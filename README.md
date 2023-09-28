@@ -1,6 +1,7 @@
+![logo](https://i.gifer.com/39Cg.gif)
 <h1 align="center">Hi 👋, I'm Mujeeb Ahmed</h1>
 <h3 align="center">Web developer from India</h3>
-<img src="https://i.gifer.com/39Cg.gif" >
+<img align="center" alt="coding" width="400"  src="https://media.tenor.com/Yv5tmnGHc8kAAAAC/l%C3%A0m-vi%E1%BB%87c-d%E1%BB%9Di-h%E1%BA%A1n.gif" >
 
 - 🔭 I’m currently working on [Kalendar day](https://kalendarday.com/)
 
